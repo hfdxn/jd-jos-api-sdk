@@ -1,5 +1,5 @@
 <?php
-namespace OneHour\JdJosApiSdk\jd;
+namespace JdJos\jd;
 
 class JdClient
 {
