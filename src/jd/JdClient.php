@@ -1,6 +1,8 @@
 <?php
 namespace JdJos\jd;
 
+use Exception;
+
 class JdClient
 {
     public $serverUrl = "https://api.jd.com/routerjson";
