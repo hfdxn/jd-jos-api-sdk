@@ -1,5 +1,6 @@
 <?php
-namespace B2bPromotionPriceGet;
+
+namespace JdJos\jd\request\domain\B2bPromotionPriceGet;
 class PlatformInfo{
 
     private $params=array();

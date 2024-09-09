@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartInfoApplySparePart;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartInfoApplySparePart;
 class SparePartInfo{
 
     private $params=array();

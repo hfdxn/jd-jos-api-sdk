@@ -187,7 +187,7 @@ class JdClient
         if ($timezone == 'UTC') {
             return '+0000';
         } else {
-            $timezone = new DateTimeZone($timezone);
+            $timezone = new \DateTimeZone($timezone);
             $transitions = array_slice($timezone->getTransitions(), -3, null, true);
 
             foreach (array_reverse($transitions, true) as $transition) {

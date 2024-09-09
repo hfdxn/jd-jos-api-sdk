@@ -1,5 +1,6 @@
 <?php
-namespace ComJdEerdcGrcgEjsfApiOrderElectronicBillApiSaveOrderInfo;
+
+namespace JdJos\jd\request\domain\ComJdEerdcGrcgEjsfApiOrderElectronicBillApiSaveOrderInfo;
 class ElectronicBillDTO{
 
     private $params=array();

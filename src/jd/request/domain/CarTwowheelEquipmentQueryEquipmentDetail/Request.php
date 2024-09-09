@@ -1,5 +1,6 @@
 <?php
-namespace CarTwowheelEquipmentQueryEquipmentDetail;
+
+namespace JdJos\jd\request\domain\CarTwowheelEquipmentQueryEquipmentDetail;
 class Request{
 
     private $params=array();

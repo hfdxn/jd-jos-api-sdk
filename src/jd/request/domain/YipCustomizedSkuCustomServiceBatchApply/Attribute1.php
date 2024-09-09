@@ -1,5 +1,6 @@
 <?php
-namespace YipCustomizedSkuCustomServiceBatchApply;
+
+namespace JdJos\jd\request\domain\YipCustomizedSkuCustomServiceBatchApply;
 class Attribute1{
 
     private $params=array();

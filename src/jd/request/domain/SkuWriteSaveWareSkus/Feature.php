@@ -1,5 +1,6 @@
 <?php
-namespace SkuWriteSaveWareSkus;
+
+namespace JdJos\jd\request\domain\SkuWriteSaveWareSkus;
 class Feature{
 
     private $params=array();

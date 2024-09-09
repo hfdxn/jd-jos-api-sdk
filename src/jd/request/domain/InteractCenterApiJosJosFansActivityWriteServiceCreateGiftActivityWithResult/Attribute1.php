@@ -1,5 +1,6 @@
 <?php
-namespace InteractCenterApiJosJosFansActivityWriteServiceCreateGiftActivityWithResult;
+
+namespace JdJos\jd\request\domain\InteractCenterApiJosJosFansActivityWriteServiceCreateGiftActivityWithResult;
 class Attribute1{
 
     private $params=array();

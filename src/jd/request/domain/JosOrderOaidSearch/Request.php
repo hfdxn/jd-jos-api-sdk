@@ -1,5 +1,6 @@
 <?php
-namespace JosOrderOaidSearch;
+
+namespace JdJos\jd\request\domain\JosOrderOaidSearch;
 class Request{
 
     private $params=array();

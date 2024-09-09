@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSettleReconsider;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSettleReconsider;
 class Param{
 
     private $params=array();

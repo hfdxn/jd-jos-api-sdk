@@ -1,5 +1,6 @@
 <?php
-namespace AscBizAuditRefuse;
+
+namespace JdJos\jd\request\domain\AscBizAuditRefuse;
 class WareDetailInfo{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace PopPromoCouponCreateCoupon;
+
+namespace JdJos\jd\request\domain\PopPromoCouponCreateCoupon;
 class CouponStair{
 
     private $params=array();

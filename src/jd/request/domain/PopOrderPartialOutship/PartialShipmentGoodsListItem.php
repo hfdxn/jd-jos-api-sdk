@@ -1,5 +1,6 @@
 <?php
-namespace PopOrderPartialOutship;
+
+namespace JdJos\jd\request\domain\PopOrderPartialOutship;
 class PartialShipmentGoodsListItem{
 
     private $params=array();

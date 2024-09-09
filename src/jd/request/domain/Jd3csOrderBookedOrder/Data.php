@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderBookedOrder;
+
+namespace JdJos\jd\request\domain\Jd3csOrderBookedOrder;
 class Data{
 
     private $params=array();

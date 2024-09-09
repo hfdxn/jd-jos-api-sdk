@@ -1,5 +1,6 @@
 <?php
-namespace JingyiyueVenderapiGetAppointList;
+
+namespace JdJos\jd\request\domain\JingyiyueVenderapiGetAppointList;
 class SortField{
 
     private $params=array();

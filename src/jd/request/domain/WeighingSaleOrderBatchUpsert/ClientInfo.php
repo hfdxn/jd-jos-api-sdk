@@ -1,5 +1,6 @@
 <?php
-namespace WeighingSaleOrderBatchUpsert;
+
+namespace JdJos\jd\request\domain\WeighingSaleOrderBatchUpsert;
 class ClientInfo{
 
     private $params=array();

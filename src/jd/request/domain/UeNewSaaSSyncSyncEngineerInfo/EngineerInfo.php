@@ -1,5 +1,6 @@
 <?php
-namespace UeNewSaaSSyncSyncEngineerInfo;
+
+namespace JdJos\jd\request\domain\UeNewSaaSSyncSyncEngineerInfo;
 class EngineerInfo{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace ShopBusinessidGetVenderBusinessByVenderId;
+
+namespace JdJos\jd\request\domain\ShopBusinessidGetVenderBusinessByVenderId;
 class I18nParam{
 
     private $params=array();

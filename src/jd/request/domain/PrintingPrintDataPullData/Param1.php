@@ -1,5 +1,6 @@
 <?php
-namespace PrintingPrintDataPullData;
+
+namespace JdJos\jd\request\domain\PrintingPrintDataPullData;
 class Param1{
 
     private $params=array();

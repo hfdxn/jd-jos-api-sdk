@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartInfoDelivered;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartInfoDelivered;
 class Data{
 
     private $params=array();

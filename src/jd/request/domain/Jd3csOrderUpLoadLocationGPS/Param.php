@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderUpLoadLocationGPS;
+
+namespace JdJos\jd\request\domain\Jd3csOrderUpLoadLocationGPS;
 class Param{
 
     private $params=array();

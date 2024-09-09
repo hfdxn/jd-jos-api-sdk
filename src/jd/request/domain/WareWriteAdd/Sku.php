@@ -1,5 +1,6 @@
 <?php
-namespace WareWriteAdd;
+
+namespace JdJos\jd\request\domain\WareWriteAdd;
 class Sku{
 
     private $params=array();

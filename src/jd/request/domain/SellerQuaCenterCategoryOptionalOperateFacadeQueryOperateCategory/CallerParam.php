@@ -1,5 +1,6 @@
 <?php
-namespace SellerQuaCenterCategoryOptionalOperateFacadeQueryOperateCategory;
+
+namespace JdJos\jd\request\domain\SellerQuaCenterCategoryOptionalOperateFacadeQueryOperateCategory;
 class CallerParam{
 
     private $params=array();

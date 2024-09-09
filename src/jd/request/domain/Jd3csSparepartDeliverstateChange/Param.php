@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartDeliverstateChange;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartDeliverstateChange;
 class Param{
 
     private $params=array();

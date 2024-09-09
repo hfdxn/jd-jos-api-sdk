@@ -1,5 +1,6 @@
 <?php
-namespace JingyiyueVenderapiGetAppointList;
+
+namespace JdJos\jd\request\domain\JingyiyueVenderapiGetAppointList;
 class Direction{
 
     private $params=array();

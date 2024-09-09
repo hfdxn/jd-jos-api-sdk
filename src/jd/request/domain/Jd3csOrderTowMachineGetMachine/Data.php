@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderTowMachineGetMachine;
+
+namespace JdJos\jd\request\domain\Jd3csOrderTowMachineGetMachine;
 class Data{
 
     private $params=array();

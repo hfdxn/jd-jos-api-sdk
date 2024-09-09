@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderQuerySettleFlowList;
+
+namespace JdJos\jd\request\domain\Jd3csOrderQuerySettleFlowList;
 class Data{
 
     private $params=array();

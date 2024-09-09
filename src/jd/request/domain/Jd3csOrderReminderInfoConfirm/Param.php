@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderReminderInfoConfirm;
+
+namespace JdJos\jd\request\domain\Jd3csOrderReminderInfoConfirm;
 class Param{
 
     private $params=array();

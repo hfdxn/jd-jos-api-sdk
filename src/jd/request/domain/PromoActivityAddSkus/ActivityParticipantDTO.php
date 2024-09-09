@@ -1,5 +1,6 @@
 <?php
-namespace PromoActivityAddSkus;
+
+namespace JdJos\jd\request\domain\PromoActivityAddSkus;
 class ActivityParticipantDTO{
 
     private $params=array();

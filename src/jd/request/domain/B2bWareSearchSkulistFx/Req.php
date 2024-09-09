@@ -1,5 +1,6 @@
 <?php
-namespace B2bWareSearchSkulistFx;
+
+namespace JdJos\jd\request\domain\B2bWareSearchSkulistFx;
 class Req{
 
     private $params=array();

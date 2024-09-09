@@ -1,5 +1,6 @@
 <?php
-namespace JdhO2oStoreClientBatchQueryStorePOIs;
+
+namespace JdJos\jd\request\domain\JdhO2oStoreClientBatchQueryStorePOIs;
 class StorePOIRequest{
 
     private $params=array();

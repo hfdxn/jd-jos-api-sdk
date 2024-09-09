@@ -1,5 +1,6 @@
 <?php
-namespace InteractiveDoInteractiveAssignment;
+
+namespace JdJos\jd\request\domain\InteractiveDoInteractiveAssignment;
 class SysExt{
 
     private $params=array();

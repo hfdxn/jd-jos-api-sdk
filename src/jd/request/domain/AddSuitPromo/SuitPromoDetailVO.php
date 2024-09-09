@@ -1,5 +1,6 @@
 <?php
-namespace AddSuitPromo;
+
+namespace JdJos\jd\request\domain\AddSuitPromo;
 class SuitPromoDetailVO{
 
     private $params=array();

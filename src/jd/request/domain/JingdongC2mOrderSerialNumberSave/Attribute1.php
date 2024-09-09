@@ -1,5 +1,6 @@
 <?php
-namespace JingdongC2mOrderSerialNumberSave;
+
+namespace JdJos\jd\request\domain\JingdongC2mOrderSerialNumberSave;
 class Attribute1{
 
     private $params=array();

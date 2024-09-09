@@ -1,5 +1,6 @@
 <?php
-namespace JosOrderOaidDecrypt;
+
+namespace JdJos\jd\request\domain\JosOrderOaidDecrypt;
 class GetReceiverInfoListReqVO{
 
     private $params=array();

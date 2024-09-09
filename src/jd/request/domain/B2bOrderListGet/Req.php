@@ -1,5 +1,6 @@
 <?php
-namespace B2bOrderListGet;
+
+namespace JdJos\jd\request\domain\B2bOrderListGet;
 class Req{
 
     private $params=array();

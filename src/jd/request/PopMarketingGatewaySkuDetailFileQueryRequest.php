@@ -1,4 +1,6 @@
 <?php
+
+namespace JdJos\jd\request;
 class PopMarketingGatewaySkuDetailFileQueryRequest
 {
 

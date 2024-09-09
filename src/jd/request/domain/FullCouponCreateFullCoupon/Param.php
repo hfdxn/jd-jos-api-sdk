@@ -1,5 +1,6 @@
 <?php
-namespace FullCouponCreateFullCoupon;
+
+namespace JdJos\jd\request\domain\FullCouponCreateFullCoupon;
 class Param{
 
     private $params=array();

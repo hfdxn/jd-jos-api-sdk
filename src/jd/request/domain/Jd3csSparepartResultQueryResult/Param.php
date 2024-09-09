@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartResultQueryResult;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartResultQueryResult;
 class Param{
 
     private $params=array();

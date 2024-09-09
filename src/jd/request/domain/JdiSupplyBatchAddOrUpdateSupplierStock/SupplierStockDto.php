@@ -1,5 +1,6 @@
 <?php
-namespace JdiSupplyBatchAddOrUpdateSupplierStock;
+
+namespace JdJos\jd\request\domain\JdiSupplyBatchAddOrUpdateSupplierStock;
 class SupplierStockDto{
 
     private $params=array();

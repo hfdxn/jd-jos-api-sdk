@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderOrderCancel;
+
+namespace JdJos\jd\request\domain\Jd3csOrderOrderCancel;
 class Data{
 
     private $params=array();

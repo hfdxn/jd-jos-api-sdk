@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderQueryUnHandleUpdateOrderInfo;
+
+namespace JdJos\jd\request\domain\Jd3csOrderQueryUnHandleUpdateOrderInfo;
 class Data{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace ContentWriteContentWriteServiceSaveArticleContent;
+
+namespace JdJos\jd\request\domain\ContentWriteContentWriteServiceSaveArticleContent;
 class Attribute2{
 
     private $params=array();

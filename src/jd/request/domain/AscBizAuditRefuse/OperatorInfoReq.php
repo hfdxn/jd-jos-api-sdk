@@ -1,5 +1,6 @@
 <?php
-namespace AscBizAuditRefuse;
+
+namespace JdJos\jd\request\domain\AscBizAuditRefuse;
 class OperatorInfoReq{
 
     private $params=array();

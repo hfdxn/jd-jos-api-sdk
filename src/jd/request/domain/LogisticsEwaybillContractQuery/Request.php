@@ -1,5 +1,6 @@
 <?php
-namespace LogisticsEwaybillContractQuery;
+
+namespace JdJos\jd\request\domain\LogisticsEwaybillContractQuery;
 class Request{
 
     private $params=array();

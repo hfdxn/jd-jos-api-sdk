@@ -1,5 +1,6 @@
 <?php
-namespace CarNotifyOrderInfo;
+
+namespace JdJos\jd\request\domain\CarNotifyOrderInfo;
 class Data{
 
     private $params=array();

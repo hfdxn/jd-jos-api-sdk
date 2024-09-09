@@ -1,5 +1,6 @@
 <?php
-namespace AICheckBillServiceSubmitAICheckBillRealtime;
+
+namespace JdJos\jd\request\domain\AICheckBillServiceSubmitAICheckBillRealtime;
 class AiCheckBillReq{
 
     private $params=array();

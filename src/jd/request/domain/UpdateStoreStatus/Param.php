@@ -1,5 +1,6 @@
 <?php
-namespace UpdateStoreStatus;
+
+namespace JdJos\jd\request\domain\UpdateStoreStatus;
 class Param{
 
     private $params=array();

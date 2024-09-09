@@ -1,4 +1,6 @@
 <?php
+
+namespace JdJos\jd\request;
 class SellerPromotionSkuAddRequest
 {
 
@@ -37,7 +39,7 @@ class SellerPromotionSkuAddRequest
                                                              	                        	                                                                                                                          private $promoId;
                               public function setPromoId($promoId ){
                  $this->promoId=$promoId;
-                 $this->apiParas["#promo_id"] = $#promoId;
+                 $this->apiParas["#promo_id"] = $promoId;
               }
 
               public function getPromoId(){

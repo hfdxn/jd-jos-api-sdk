@@ -1,5 +1,6 @@
 <?php
-namespace GtinWriteBatchAdd;
+
+namespace JdJos\jd\request\domain\GtinWriteBatchAdd;
 class BatchAddVo{
 
     private $params=array();

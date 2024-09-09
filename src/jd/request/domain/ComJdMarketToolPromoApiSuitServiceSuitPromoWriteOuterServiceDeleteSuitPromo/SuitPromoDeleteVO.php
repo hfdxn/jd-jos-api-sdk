@@ -1,5 +1,6 @@
 <?php
-namespace ComJdMarketToolPromoApiSuitServiceSuitPromoWriteOuterServiceDeleteSuitPromo;
+
+namespace JdJos\jd\request\domain\ComJdMarketToolPromoApiSuitServiceSuitPromoWriteOuterServiceDeleteSuitPromo;
 class SuitPromoDeleteVO{
 
     private $params=array();

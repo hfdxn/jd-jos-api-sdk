@@ -1,5 +1,6 @@
 <?php
-namespace CreateAppointment;
+
+namespace JdJos\jd\request\domain\CreateAppointment;
 class AppointmentInfo{
 
     private $params=array();

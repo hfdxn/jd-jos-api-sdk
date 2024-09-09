@@ -1,5 +1,6 @@
 <?php
-namespace InteractiveQueryInteractiveInfo;
+
+namespace JdJos\jd\request\domain\InteractiveQueryInteractiveInfo;
 class Ext{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace PromoActivityCreate;
+
+namespace JdJos\jd\request\domain\PromoActivityCreate;
 class BaseRequest{
 
     private $params=array();

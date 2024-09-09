@@ -1,5 +1,6 @@
 <?php
-namespace GetUnitFlowLogList;
+
+namespace JdJos\jd\request\domain\GetUnitFlowLogList;
 class ClientInfo{
 
     private $params=array();

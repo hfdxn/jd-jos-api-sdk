@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderConfirmUploadInstallSku;
+
+namespace JdJos\jd\request\domain\Jd3csOrderConfirmUploadInstallSku;
 class Param{
 
     private $params=array();

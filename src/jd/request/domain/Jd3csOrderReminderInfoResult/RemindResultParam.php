@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderReminderInfoResult;
+
+namespace JdJos\jd\request\domain\Jd3csOrderReminderInfoResult;
 class RemindResultParam{
 
     private $params=array();

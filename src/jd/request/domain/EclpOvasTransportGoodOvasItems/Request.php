@@ -1,5 +1,6 @@
 <?php
-namespace EclpOvasTransportGoodOvasItems;
+
+namespace JdJos\jd\request\domain\EclpOvasTransportGoodOvasItems;
 class Request{
 
     private $params=array();

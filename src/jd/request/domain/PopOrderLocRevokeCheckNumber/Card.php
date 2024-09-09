@@ -1,5 +1,6 @@
 <?php
-namespace PopOrderLocRevokeCheckNumber;
+
+namespace JdJos\jd\request\domain\PopOrderLocRevokeCheckNumber;
 class Card{
 
     private $params=array();

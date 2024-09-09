@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSyncElectronicBill;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSyncElectronicBill;
 class Data{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace ExpressFetchElectronicSheet;
+
+namespace JdJos\jd\request\domain\ExpressFetchElectronicSheet;
 class UserEnv{
 
     private $params=array();

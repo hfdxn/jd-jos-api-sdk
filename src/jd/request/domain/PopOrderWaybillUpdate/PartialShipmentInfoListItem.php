@@ -1,5 +1,6 @@
 <?php
-namespace PopOrderWaybillUpdate;
+
+namespace JdJos\jd\request\domain\PopOrderWaybillUpdate;
 class PartialShipmentInfoListItem{
 
     private $params=array();

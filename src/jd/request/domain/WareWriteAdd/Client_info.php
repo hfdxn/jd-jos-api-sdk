@@ -1,5 +1,6 @@
 <?php
-namespace WareWriteAdd;
+
+namespace JdJos\jd\request\domain\WareWriteAdd;
 class Client_info{
 
     private $params=array();

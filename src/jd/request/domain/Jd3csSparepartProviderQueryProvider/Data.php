@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartProviderQueryProvider;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartProviderQueryProvider;
 class Data{
 
     private $params=array();

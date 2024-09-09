@@ -1,5 +1,6 @@
 <?php
-namespace AscBizCustomerDeliveryStoreApply;
+
+namespace JdJos\jd\request\domain\AscBizCustomerDeliveryStoreApply;
 class AuditAddInfo{
 
     private $params=array();

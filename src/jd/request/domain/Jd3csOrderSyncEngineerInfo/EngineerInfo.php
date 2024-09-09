@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSyncEngineerInfo;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSyncEngineerInfo;
 class EngineerInfo{
 
     private $params=array();

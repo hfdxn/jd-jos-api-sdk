@@ -1,5 +1,6 @@
 <?php
-namespace DraftCommitDraft;
+
+namespace JdJos\jd\request\domain\DraftCommitDraft;
 class SaleAttr{
 
     private $params=array();

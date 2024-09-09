@@ -1,5 +1,6 @@
 <?php
-namespace B2bOpenPoCenterProviderSubmitPo;
+
+namespace JdJos\jd\request\domain\B2bOpenPoCenterProviderSubmitPo;
 class ExtParam{
 
     private $params=array();

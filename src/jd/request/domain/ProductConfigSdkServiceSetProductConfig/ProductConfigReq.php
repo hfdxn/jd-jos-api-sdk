@@ -1,5 +1,6 @@
 <?php
-namespace ProductConfigSdkServiceSetProductConfig;
+
+namespace JdJos\jd\request\domain\ProductConfigSdkServiceSetProductConfig;
 class ProductConfigReq{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace WareWriteUpdateWare;
+
+namespace JdJos\jd\request\domain\WareWriteUpdateWare;
 class Ware{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace GetSuitPromoPageList;
+
+namespace JdJos\jd\request\domain\GetSuitPromoPageList;
 class ClientInfo{
 
     private $params=array();

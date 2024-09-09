@@ -1,5 +1,6 @@
 <?php
-namespace WeighingSaleOrderBatchSubmit;
+
+namespace JdJos\jd\request\domain\WeighingSaleOrderBatchSubmit;
 class Data{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace FinanceBillingBillingdetailQueryBillingDetailInfos;
+
+namespace JdJos\jd\request\domain\FinanceBillingBillingdetailQueryBillingDetailInfos;
 class QueryBillingDetailInfoMo{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace AscBizStoreDoorPick;
+
+namespace JdJos\jd\request\domain\AscBizStoreDoorPick;
 class StoreDoorPickApplyCmd{
 
     private $params=array();

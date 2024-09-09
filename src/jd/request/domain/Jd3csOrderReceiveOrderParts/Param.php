@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderReceiveOrderParts;
+
+namespace JdJos\jd\request\domain\Jd3csOrderReceiveOrderParts;
 class Param{
 
     private $params=array();

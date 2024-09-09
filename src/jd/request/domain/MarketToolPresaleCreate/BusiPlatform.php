@@ -1,5 +1,6 @@
 <?php
-namespace MarketToolPresaleCreate;
+
+namespace JdJos\jd\request\domain\MarketToolPresaleCreate;
 class BusiPlatform{
 
     private $params=array();

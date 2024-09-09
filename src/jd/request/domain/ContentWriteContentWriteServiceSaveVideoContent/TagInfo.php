@@ -1,5 +1,6 @@
 <?php
-namespace ContentWriteContentWriteServiceSaveVideoContent;
+
+namespace JdJos\jd\request\domain\ContentWriteContentWriteServiceSaveVideoContent;
 class TagInfo{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace UeNewSaaSSyncSyncSiteAbilityInfo;
+
+namespace JdJos\jd\request\domain\UeNewSaaSSyncSyncSiteAbilityInfo;
 class ServiceArea{
 
     private $params=array();

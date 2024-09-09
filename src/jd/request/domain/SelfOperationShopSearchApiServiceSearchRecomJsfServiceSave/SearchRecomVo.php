@@ -1,5 +1,6 @@
 <?php
-namespace SelfOperationShopSearchApiServiceSearchRecomJsfServiceSave;
+
+namespace JdJos\jd\request\domain\SelfOperationShopSearchApiServiceSearchRecomJsfServiceSave;
 class SearchRecomVo{
 
     private $params=array();

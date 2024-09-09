@@ -1,5 +1,6 @@
 <?php
-namespace HealthcareBatchPushGoodsStoreRel;
+
+namespace JdJos\jd\request\domain\HealthcareBatchPushGoodsStoreRel;
 class BatchGoodsStoreRel{
 
     private $params=array();

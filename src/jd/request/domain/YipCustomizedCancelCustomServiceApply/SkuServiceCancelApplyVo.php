@@ -1,5 +1,6 @@
 <?php
-namespace YipCustomizedCancelCustomServiceApply;
+
+namespace JdJos\jd\request\domain\YipCustomizedCancelCustomServiceApply;
 class SkuServiceCancelApplyVo{
 
     private $params=array();

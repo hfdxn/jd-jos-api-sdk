@@ -1,5 +1,6 @@
 <?php
-namespace PopOrderPartialshipJudge;
+
+namespace JdJos\jd\request\domain\PopOrderPartialshipJudge;
 class Data{
 
     private $params=array();

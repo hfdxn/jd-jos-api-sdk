@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderTowMachineInRepair;
+
+namespace JdJos\jd\request\domain\Jd3csOrderTowMachineInRepair;
 class Data{
 
     private $params=array();

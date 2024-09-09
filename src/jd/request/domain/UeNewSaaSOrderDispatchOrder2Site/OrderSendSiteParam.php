@@ -1,5 +1,6 @@
 <?php
-namespace UeNewSaaSOrderDispatchOrder2Site;
+
+namespace JdJos\jd\request\domain\UeNewSaaSOrderDispatchOrder2Site;
 class OrderSendSiteParam{
 
     private $params=array();

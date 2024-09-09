@@ -1,5 +1,6 @@
 <?php
-namespace SellerQuaCenterBrandOperateFacadeQueryOperateBrand;
+
+namespace JdJos\jd\request\domain\SellerQuaCenterBrandOperateFacadeQueryOperateBrand;
 class CallerParam{
 
     private $params=array();

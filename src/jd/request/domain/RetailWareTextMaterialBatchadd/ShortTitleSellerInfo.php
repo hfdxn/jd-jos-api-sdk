@@ -1,5 +1,6 @@
 <?php
-namespace RetailWareTextMaterialBatchadd;
+
+namespace JdJos\jd\request\domain\RetailWareTextMaterialBatchadd;
 class ShortTitleSellerInfo{
 
     private $params=array();

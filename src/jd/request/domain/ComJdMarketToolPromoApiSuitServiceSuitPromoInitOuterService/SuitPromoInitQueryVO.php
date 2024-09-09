@@ -1,5 +1,6 @@
 <?php
-namespace ComJdMarketToolPromoApiSuitServiceSuitPromoInitOuterService;
+
+namespace JdJos\jd\request\domain\ComJdMarketToolPromoApiSuitServiceSuitPromoInitOuterService;
 class SuitPromoInitQueryVO{
 
     private $params=array();

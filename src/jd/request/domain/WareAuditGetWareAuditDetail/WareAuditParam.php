@@ -1,5 +1,6 @@
 <?php
-namespace WareAuditGetWareAuditDetail;
+
+namespace JdJos\jd\request\domain\WareAuditGetWareAuditDetail;
 class WareAuditParam{
 
     private $params=array();

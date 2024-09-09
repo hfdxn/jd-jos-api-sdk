@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderQuerySettleBillDetail;
+
+namespace JdJos\jd\request\domain\Jd3csOrderQuerySettleBillDetail;
 class Data{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace JdhO2oStoreClientQueryStorePageDetailData;
+
+namespace JdJos\jd\request\domain\JdhO2oStoreClientQueryStorePageDetailData;
 class StoreDetailPageRequest{
 
     private $params=array();

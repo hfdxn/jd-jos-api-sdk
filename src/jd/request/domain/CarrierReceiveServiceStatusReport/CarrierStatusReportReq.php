@@ -1,5 +1,6 @@
 <?php
-namespace CarrierReceiveServiceStatusReport;
+
+namespace JdJos\jd\request\domain\CarrierReceiveServiceStatusReport;
 class CarrierStatusReportReq{
 
     private $params=array();

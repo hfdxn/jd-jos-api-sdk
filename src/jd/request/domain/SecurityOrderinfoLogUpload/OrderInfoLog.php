@@ -1,5 +1,6 @@
 <?php
-namespace SecurityOrderinfoLogUpload;
+
+namespace JdJos\jd\request\domain\SecurityOrderinfoLogUpload;
 class OrderInfoLog{
 
     private $params=array();

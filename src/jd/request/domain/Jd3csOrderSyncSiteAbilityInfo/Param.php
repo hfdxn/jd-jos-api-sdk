@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSyncSiteAbilityInfo;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSyncSiteAbilityInfo;
 class Param{
 
     private $params=array();

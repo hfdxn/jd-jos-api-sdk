@@ -1,5 +1,6 @@
 <?php
-namespace AscBizCustomerDeliveryStoreApply;
+
+namespace JdJos\jd\request\domain\AscBizCustomerDeliveryStoreApply;
 class CustomerDeliveryStoreApplyCmd{
 
     private $params=array();

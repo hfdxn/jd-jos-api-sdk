@@ -1,5 +1,6 @@
 <?php
-namespace PopOrderPriceAdjustmentPanel;
+
+namespace JdJos\jd\request\domain\PopOrderPriceAdjustmentPanel;
 class Request{
 
     private $params=array();

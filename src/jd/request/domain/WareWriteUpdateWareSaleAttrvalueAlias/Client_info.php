@@ -1,5 +1,6 @@
 <?php
-namespace WareWriteUpdateWareSaleAttrvalueAlias;
+
+namespace JdJos\jd\request\domain\WareWriteUpdateWareSaleAttrvalueAlias;
 class Client_info{
 
     private $params=array();

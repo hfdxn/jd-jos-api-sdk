@@ -1,5 +1,6 @@
 <?php
-namespace InteractiveQueryInteractiveRewardInfo;
+
+namespace JdJos\jd\request\domain\InteractiveQueryInteractiveRewardInfo;
 class InteractiveRewardParam{
 
     private $params=array();

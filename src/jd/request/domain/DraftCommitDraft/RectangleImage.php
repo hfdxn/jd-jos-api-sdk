@@ -1,5 +1,6 @@
 <?php
-namespace DraftCommitDraft;
+
+namespace JdJos\jd\request\domain\DraftCommitDraft;
 class RectangleImage{
 
     private $params=array();

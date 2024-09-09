@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSparePartUploadInfo;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSparePartUploadInfo;
 class Data{
 
     private $params=array();

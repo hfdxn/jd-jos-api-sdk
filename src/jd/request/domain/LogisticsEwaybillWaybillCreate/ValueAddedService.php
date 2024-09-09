@@ -1,5 +1,6 @@
 <?php
-namespace LogisticsEwaybillWaybillCreate;
+
+namespace JdJos\jd\request\domain\LogisticsEwaybillWaybillCreate;
 class ValueAddedService{
 
     private $params=array();

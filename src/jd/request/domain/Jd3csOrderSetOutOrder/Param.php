@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSetOutOrder;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSetOutOrder;
 class Param{
 
     private $params=array();

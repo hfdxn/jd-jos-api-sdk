@@ -1,5 +1,6 @@
 <?php
-namespace AscBizCustomerSendStoreApply;
+
+namespace JdJos\jd\request\domain\AscBizCustomerSendStoreApply;
 class AddressInfo1{
 
     private $params=array();

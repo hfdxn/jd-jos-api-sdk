@@ -1,5 +1,6 @@
 <?php
-namespace UpdateSpuSymbolBind;
+
+namespace JdJos\jd\request\domain\UpdateSpuSymbolBind;
 class BdsSkuBindSymbol{
 
     private $params=array();

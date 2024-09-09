@@ -1,5 +1,6 @@
 <?php
-namespace DongdongPacketJosChatMessagePush;
+
+namespace JdJos\jd\request\domain\DongdongPacketJosChatMessagePush;
 class Param1{
 
     private $params=array();

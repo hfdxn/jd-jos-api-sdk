@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderAppointSite;
+
+namespace JdJos\jd\request\domain\Jd3csOrderAppointSite;
 class Data{
 
     private $params=array();

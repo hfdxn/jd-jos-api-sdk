@@ -1,5 +1,6 @@
 <?php
-namespace JingdongYipProductionGetOrderCustomInfos;
+
+namespace JdJos\jd\request\domain\JingdongYipProductionGetOrderCustomInfos;
 class Query{
 
     private $params=array();

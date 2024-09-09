@@ -1,5 +1,6 @@
 <?php
-namespace UeNewSaaSSyncSyncSite;
+
+namespace JdJos\jd\request\domain\UeNewSaaSSyncSyncSite;
 class Param{
 
     private $params=array();

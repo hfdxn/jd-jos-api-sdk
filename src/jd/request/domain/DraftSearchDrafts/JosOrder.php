@@ -1,5 +1,6 @@
 <?php
-namespace DraftSearchDrafts;
+
+namespace JdJos\jd\request\domain\DraftSearchDrafts;
 class JosOrder{
 
     private $params=array();

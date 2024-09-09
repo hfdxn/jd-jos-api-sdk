@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartReturnbackApplySparePartReturn;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartReturnbackApplySparePartReturn;
 class Param{
 
     private $params=array();

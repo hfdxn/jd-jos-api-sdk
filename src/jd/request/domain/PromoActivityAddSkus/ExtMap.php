@@ -1,5 +1,6 @@
 <?php
-namespace PromoActivityAddSkus;
+
+namespace JdJos\jd\request\domain\PromoActivityAddSkus;
 class ExtMap{
 
     private $params=array();

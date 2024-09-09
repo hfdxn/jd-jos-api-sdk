@@ -1,5 +1,6 @@
 <?php
-namespace UeOrderNewInfo;
+
+namespace JdJos\jd\request\domain\UeOrderNewInfo;
 class EngineerInfo{
 
     private $params=array();

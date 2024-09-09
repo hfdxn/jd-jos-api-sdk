@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderOrderFinish;
+
+namespace JdJos\jd\request\domain\Jd3csOrderOrderFinish;
 class Data{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace PopOrderSopLogisticsUpdate;
+
+namespace JdJos\jd\request\domain\PopOrderSopLogisticsUpdate;
 class OneGlobalOrderModelNoLogistic{
 
     private $params=array();

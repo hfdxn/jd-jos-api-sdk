@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderAppointEngineer;
+
+namespace JdJos\jd\request\domain\Jd3csOrderAppointEngineer;
 class Param{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace EclpMasterOpenQueryDeptByPage;
+
+namespace JdJos\jd\request\domain\EclpMasterOpenQueryDeptByPage;
 class Page{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSparePartApply;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSparePartApply;
 class Data{
 
     private $params=array();

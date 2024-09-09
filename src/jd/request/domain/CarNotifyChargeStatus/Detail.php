@@ -1,5 +1,6 @@
 <?php
-namespace CarNotifyChargeStatus;
+
+namespace JdJos\jd\request\domain\CarNotifyChargeStatus;
 class Detail{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace LocWareFeatureWrite;
+
+namespace JdJos\jd\request\domain\LocWareFeatureWrite;
 class FeatureParam{
 
     private $params=array();

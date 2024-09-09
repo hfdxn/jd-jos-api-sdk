@@ -1,5 +1,6 @@
 <?php
-namespace SellerPromotionAddSkus;
+
+namespace JdJos\jd\request\domain\SellerPromotionAddSkus;
 class Client_info{
 
     private $params=array();

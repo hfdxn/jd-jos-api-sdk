@@ -1,5 +1,6 @@
 <?php
-namespace YipCustomizedBatchQueryCustomServiceApplyResult;
+
+namespace JdJos\jd\request\domain\YipCustomizedBatchQueryCustomServiceApplyResult;
 class BatchApplyVo{
 
     private $params=array();

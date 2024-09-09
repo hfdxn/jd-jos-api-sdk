@@ -1,5 +1,6 @@
 <?php
-namespace InteractiveQueryInteractiveInfo;
+
+namespace JdJos\jd\request\domain\InteractiveQueryInteractiveInfo;
 class SysParam{
 
     private $params=array();

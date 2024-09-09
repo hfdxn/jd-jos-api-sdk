@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderBatchSyncSiteAbilityInfo;
+
+namespace JdJos\jd\request\domain\Jd3csOrderBatchSyncSiteAbilityInfo;
 class Data{
 
     private $params=array();

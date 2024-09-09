@@ -1,5 +1,6 @@
 <?php
-namespace WareStockSkuSet;
+
+namespace JdJos\jd\request\domain\WareStockSkuSet;
 class Req{
 
     private $params=array();

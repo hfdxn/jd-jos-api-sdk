@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartBrandQueryBrand;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartBrandQueryBrand;
 class Param{
 
     private $params=array();

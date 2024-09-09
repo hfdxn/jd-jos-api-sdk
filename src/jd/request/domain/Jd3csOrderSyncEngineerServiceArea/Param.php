@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderSyncEngineerServiceArea;
+
+namespace JdJos\jd\request\domain\Jd3csOrderSyncEngineerServiceArea;
 class Param{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csSparepartDeliverinfoQueryDeliverInfo;
+
+namespace JdJos\jd\request\domain\Jd3csSparepartDeliverinfoQueryDeliverInfo;
 class Param{
 
     private $params=array();

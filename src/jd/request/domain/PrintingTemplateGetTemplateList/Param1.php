@@ -1,5 +1,6 @@
 <?php
-namespace PrintingTemplateGetTemplateList;
+
+namespace JdJos\jd\request\domain\PrintingTemplateGetTemplateList;
 class Param1{
 
     private $params=array();

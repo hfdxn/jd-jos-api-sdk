@@ -1,5 +1,6 @@
 <?php
-namespace CreateSkuSymbolBind;
+
+namespace JdJos\jd\request\domain\CreateSkuSymbolBind;
 class BdsSymbol{
 
     private $params=array();

@@ -1,5 +1,6 @@
 <?php
-namespace JosOrderOaidMerge;
+
+namespace JdJos\jd\request\domain\JosOrderOaidMerge;
 class MergeItem{
 
     private $params=array();

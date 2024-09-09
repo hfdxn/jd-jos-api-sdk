@@ -1,5 +1,6 @@
 <?php
-namespace C2mOrderSerialNumberDel;
+
+namespace JdJos\jd\request\domain\C2mOrderSerialNumberDel;
 class Attribute1{
 
     private $params=array();

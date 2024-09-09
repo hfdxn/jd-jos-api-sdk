@@ -1,5 +1,6 @@
 <?php
-namespace Jd3csOrderNoFinishOrder;
+
+namespace JdJos\jd\request\domain\Jd3csOrderNoFinishOrder;
 class Param{
 
     private $params=array();
