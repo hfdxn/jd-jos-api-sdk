@@ -59,10 +59,10 @@ class JdClient
             $postBodyString = "";
             $postMultipart = false;
             foreach ($postFields as $k => $v) {
-                if ("@" != substr($v, 0, 1))//�ж��ǲ����ļ��ϴ�
+                if ("@" != substr($v, 0, 1))//判断是不是文件上传
                 {
                     $postBodyString .= "$k=" . urlencode($v) . "&";
-                } else//�ļ��ϴ���multipart/form-data��������www-form-urlencoded
+                } else//文件上传用multipart/form-data，否则用www-form-urlencoded
                 {
                     $postMultipart = true;
                 }
@@ -91,7 +91,7 @@ class JdClient
 
     public function execute($request, $access_token = null)
     {
-        //��װϵͳ����
+        //组装系统参数
         $sysParams["app_key"] = $this->appKey;
         $version = $request->getVersion();
 
@@ -102,18 +102,18 @@ class JdClient
             $sysParams["access_token"] = $access_token;
         }
 
-        //��ȡҵ�����
+        //获取业务参数
         $apiParams = $request->getApiParas();
         $sysParams[$this->json_param_key] = $apiParams;
 
-        //ǩ��
+        //签名
         $sysParams["sign"] = $this->generateSign($sysParams);
-        //ϵͳ��������GET����
+        //系统参数放入GET请求串
         $requestUrl = $this->serverUrl . "?";
         foreach ($sysParams as $sysParamKey => $sysParamValue) {
             $requestUrl .= "$sysParamKey=" . urlencode($sysParamValue) . "&";
         }
-        //����HTTP����
+        //发起HTTP请求
         try {
             $resp = $this->curl($requestUrl, $apiParams);
         } catch (Exception $e) {
@@ -122,7 +122,7 @@ class JdClient
             return $result;
         }
 
-        //����JD���ؽ��
+        //解析JD返回结果
         $respWellFormed = false;
         if ("json" == $this->format) {
             $respObject = json_decode($resp);
@@ -140,7 +140,7 @@ class JdClient
             }
         }
 
-        //���ص�HTTP�ı����Ǳ�׼JSON����XML�����´�����־
+        //返回的HTTP文本不是标准JSON或者XML，记下错误日志
         if (false === $respWellFormed) {
             $result->code = 0;
             $result->msg = "HTTP_RESPONSE_NOT_WELL_FORMED";

@@ -1,5 +1,5 @@
 {
-    "name": "qq746440740/jd-jos-api-sdk",
+    "name": "hfdxn/jd-jos-api-sdk",
     "description": "jd jos php sdk",
     "keywords": [
           "jingdong",
@@ -9,6 +9,12 @@
     ],
     "type": "library",
     "license": "MIT",
+    "authors": [
+          {
+              "name": "wjp",
+              "email": "wjp746440740@gmail.com"
+          }
+      ],
     "autoload" : {
         "psr-4" : {
             "JdJos\\": "src/"
